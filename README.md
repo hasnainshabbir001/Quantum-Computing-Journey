@@ -1,4 +1,4 @@
-# Quantum Computing Journey
+# The Journey of Learning Quantum Computing
 
 Welcome to my quantum computing repository! I am a physics researcher and laboratory coordinator at the University of Education, actively working on my quantum thesis. This space is dedicated to documenting my progress, code, and insights as I transition my academic background into practical quantum computation skills.
 
